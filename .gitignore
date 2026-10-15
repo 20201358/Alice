@@ -31,4 +31,7 @@ config/agent.env
 Thumbs.db
  
 
- .*
+
+.bash_logout
+.bashrc
+.profile
